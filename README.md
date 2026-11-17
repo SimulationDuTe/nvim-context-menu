@@ -1,5 +1,7 @@
 ﻿# nvim-context-menu
 
+[![PowerShell checks](https://github.com/SimulationDuTe/nvim-context-menu/actions/workflows/powershell.yml/badge.svg)](https://github.com/SimulationDuTe/nvim-context-menu/actions/workflows/powershell.yml)
+
 Add **"Open with Neovim"** to the Windows Explorer right-click menu — for files, folders, and folder backgrounds. Opens in Windows Terminal when available.
 
 - No admin rights (writes only `HKCU`)
