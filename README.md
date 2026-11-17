@@ -9,7 +9,7 @@ Add **"Open with Neovim"** to the Windows Explorer right-click menu — for file
 - Works with a portable Neovim on any drive
 - Optional top-level entry via [Nilesoft Shell](https://nilesoft.org)
 
-<img src="docs/screenshot.png" alt="Right-click menu showing Open with Neovim" width="600">
+<img src="docs/screenshot.png" alt="Windows Explorer context menu with Open with Neovim highlighted" width="460">
 
 ## Quick start
 
