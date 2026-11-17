@@ -1,0 +1,10 @@
+* text=auto eol=lf
+
+# Windows scripts keep CRLF so cmd.exe / PowerShell 5.1 behave predictably
+*.ps1 text eol=crlf
+*.cmd text eol=crlf
+*.bat text eol=crlf
+
+# binaries (screenshots)
+*.png binary
+*.jpg binary

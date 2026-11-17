@@ -1,4 +1,4 @@
-# nvim-context-menu
+﻿# nvim-context-menu
 
 Add **"Open with Neovim"** to the Windows Explorer right-click menu — for files, folders, and folder backgrounds. Opens in Windows Terminal when available.
 
@@ -10,7 +10,7 @@ Add **"Open with Neovim"** to the Windows Explorer right-click menu — for file
 ## Quick start
 
 ```powershell
-git clone https://github.com/<you>/nvim-context-menu
+git clone https://github.com/SimulationDuTe/nvim-context-menu
 cd nvim-context-menu
 powershell -ExecutionPolicy Bypass -File install.ps1
 ```
